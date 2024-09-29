@@ -1,0 +1,19 @@
+heroes:
+  - name: "Aragon"
+    race: "Human"
+    INT: 12
+    WIS: 14
+    STR: 18
+    DEX: 15
+    level: 3
+    experience: 100
+    gold: 50
+  - name: "Gimli"
+    race: "Dwarf"
+    INT: 10
+    WIS: 12
+    STR: 20
+    DEX: 13
+    level: 2
+    experience: 80
+    gold: 40

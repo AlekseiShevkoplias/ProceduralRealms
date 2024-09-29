@@ -1,0 +1,11 @@
+obstacles:
+  - name: "Goblin Attack"
+    difficulty: 4
+    STR_check: 5
+    reward:
+      gold: 5
+  - name: "Dragon's Lair"
+    difficulty: 8
+    STR_check: 10
+    reward:
+      gold: 20
