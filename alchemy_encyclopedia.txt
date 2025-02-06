@@ -1,0 +1,243 @@
+=== Alchemy Encyclopedia ===
+
+A whimsical guide to the mystical world of alchemy.
+
+
+--- Compounds ---
+
+Compound 0: Green liquid
+ Magical Properties: heals wounds when applied to the wound
+ Value: 6
+
+Compound 1: Orange solid
+ Magical Properties: improves agility when inhaled
+ Value: 10
+
+Compound 2: Blue liquid
+ Magical Properties: grants invisibility when consumed
+ Value: 9
+
+Compound 3: Green liquid
+ Magical Properties: enhances intelligence when consumed
+ Value: 6
+
+Compound 4: Orange solid
+ Magical Properties: enhances intelligence when consumed
+ Value: 3
+
+Compound 5: Blue solid
+ Magical Properties: provides resistance to fire when applied to the skin
+ Value: 7
+
+Compound 6: Violet solid
+ Magical Properties: enhances intelligence when consumed
+ Value: 8
+
+Compound 7: Green solid
+ Magical Properties: provides resistance to fire when applied to the skin
+ Value: 1
+
+Compound 8: Orange gas
+ Magical Properties: provides resistance to cold when applied to the skin
+ Value: 6
+
+Compound 9: Green gas
+ Magical Properties: improves vision when applied to the eyes, washed off with water
+ Value: 9
+
+Compound 10: Yellow solid
+ Magical Properties: provides resistance to fire when applied to the skin
+ Value: 7
+
+Compound 11: Indigo gas
+ Magical Properties: enhances intelligence when consumed
+ Value: 2
+
+Compound 12: Yellow gas
+ Magical Properties: provides resistance to cold when applied to the skin
+ Value: 5
+
+Compound 13: Green gas
+ Magical Properties: provides resistance to cold when applied to the skin
+ Value: 6
+
+Compound 14: Yellow gas
+ Magical Properties: grants invisibility when consumed
+ Value: 9
+
+Compound 15: Indigo liquid
+ Magical Properties: enhances intelligence when consumed
+ Value: 8
+
+Compound 16: Orange solid
+ Magical Properties: heals wounds when applied to the wound
+ Value: 2
+
+Compound 17: Yellow liquid
+ Magical Properties: provides resistance to fire when applied to the skin
+ Value: 9
+
+Compound 18: Violet solid
+ Magical Properties: heals wounds when applied to the wound
+ Value: 7
+
+Compound 19: Green gas
+ Magical Properties: restores stamina when consumed
+ Value: 10
+
+
+--- Minerals ---
+
+Mineral 0: Green cubic crystal
+ Compounds: Compound 2, Compound 4
+ Frequency: 4
+
+Mineral 1: Yellow triclinic crystal
+ Compounds: Compound 7, Compound 10, Compound 13, Compound 12
+ Frequency: 6
+
+Mineral 2: Orange tetragonal crystal
+ Compounds: Compound 1
+ Frequency: 0
+
+Mineral 3: Red tetragonal crystal
+ Compounds: Compound 15, Compound 0, Compound 11
+ Frequency: 5
+
+Mineral 4: Blue hexagonal crystal
+ Compounds: Compound 6, Compound 0, Compound 5, Compound 8, Compound 15
+ Frequency: 3
+
+Mineral 5: Violet tetragonal crystal
+ Compounds: Compound 10, Compound 14, Compound 2
+ Frequency: 2
+
+Mineral 6: Red triclinic crystal
+ Compounds: Compound 3, Compound 7, Compound 17
+ Frequency: 5
+
+Mineral 7: Green monoclinic crystal
+ Compounds: Compound 10, Compound 8, Compound 14
+ Frequency: 3
+
+Mineral 8: Green rhombohedral crystal
+ Compounds: Compound 8
+ Frequency: 4
+
+Mineral 9: Green tetragonal crystal
+ Compounds: Compound 13, Compound 2
+ Frequency: 3
+
+Mineral 10: Green orthorhombic crystal
+ Compounds: Compound 17, Compound 18, Compound 2, Compound 3
+ Frequency: 3
+
+Mineral 11: Violet triclinic crystal
+ Compounds: Compound 4, Compound 6, Compound 16
+ Frequency: 6
+
+Mineral 12: Yellow rhombohedral crystal
+ Compounds: Compound 4
+ Frequency: 7
+
+Mineral 13: Green monoclinic crystal
+ Compounds: Compound 8
+ Frequency: 4
+
+Mineral 14: Blue triclinic crystal
+ Compounds: Compound 1, Compound 4, Compound 2
+ Frequency: 3
+
+
+--- Reactions ---
+
+Reaction: Compound 9, Compound 15, Compound 10 -> Compound 0
+ Conditions: in a magical circle, during a full moon
+
+Reaction: Compound 9, Compound 12, Compound 13 -> Compound 2
+ Conditions: in cold temperature, at sunrise
+
+Reaction: Compound 17, Compound 16, Compound 15, Compound 13 -> Compound 8
+ Conditions: in a magical circle, underground, in cold temperature
+
+Reaction: Compound 3, Compound 15 -> Compound 13
+ Conditions: during a full moon, underground, in hot temperature
+
+Reaction: Compound 9, Compound 16, Compound 7, Compound 12, Compound 19 -> Compound 17, Compound 4, Compound 2
+ Conditions: while in the presence of a specific creature, during a new moon, in hot temperature
+
+Reaction: Compound 17, Compound 6, Compound 7 -> Compound 2, Compound 9
+ Conditions: during a full moon, in cold temperature, at sunset
+
+Reaction: Compound 4, Compound 7, Compound 11 -> Compound 1, Compound 9
+ Conditions: while in the presence of a specific creature, underground
+
+Reaction: Compound 3, Compound 18 -> Compound 8
+ Conditions: during a new moon, at sunrise
+
+Reaction: Compound 16, Compound 18 -> Compound 13, Compound 19
+ Conditions: during a new moon, underground
+
+Reaction: Compound 2, Compound 15 -> Compound 11
+ Conditions: while in the presence of a specific creature, underground
+
+Reaction: Compound 13, Compound 11, Compound 2, Compound 9, Compound 15 -> Compound 3
+ Conditions: in a magical circle, near a water source, in cold temperature
+
+Reaction: Compound 13, Compound 4, Compound 17 -> Compound 16
+ Conditions: in a magical circle
+
+Reaction: Compound 4, Compound 18 -> Compound 8
+ Conditions: underground, during a full moon
+
+Reaction: Compound 11, Compound 0, Compound 5 -> Compound 9
+ Conditions: in cold temperature, underground, near a water source
+
+Reaction: Compound 6, Compound 7, Compound 13, Compound 3, Compound 18 -> Compound 17
+ Conditions: at sunrise, during a full moon, while in the presence of a specific creature
+
+Reaction: Compound 0, Compound 6 -> Compound 9
+ Conditions: near a water source, while in the presence of a specific creature, at sunrise, during a new moon
+
+Reaction: Compound 3, Compound 4 -> Compound 15, Compound 0, Compound 12
+ Conditions: underground
+
+Reaction: Compound 19, Compound 14, Compound 16 -> Compound 19, Compound 11
+ Conditions: in cold temperature
+
+Reaction: Compound 4, Compound 2, Compound 11, Compound 16 -> Compound 6, Compound 15, Compound 11
+ Conditions: in hot temperature, near a water source, in cold temperature
+
+Reaction: Compound 6, Compound 19, Compound 1 -> Compound 5, Compound 17, Compound 3
+ Conditions: near a water source
+
+Reaction: Compound 12, Compound 4, Compound 6, Compound 10 -> Compound 1
+ Conditions: in cold temperature, while in the presence of a specific creature
+
+Reaction: Compound 1, Compound 14 -> Compound 14
+ Conditions: in hot temperature, while in the presence of a specific creature
+
+Reaction: Compound 2, Compound 17 -> Compound 15
+ Conditions: in a magical circle, while in the presence of a specific creature
+
+Reaction: Compound 12, Compound 10 -> Compound 10
+ Conditions: in cold temperature
+
+Reaction: Compound 12, Compound 16, Compound 18, Compound 11, Compound 19 -> Compound 0, Compound 12
+ Conditions: near a water source
+
+Reaction: Compound 2, Compound 15 -> Compound 18
+ Conditions: at sunrise, in cold temperature, underground
+
+Reaction: Compound 13, Compound 1, Compound 10 -> Compound 9
+ Conditions: in a magical circle, underground
+
+Reaction: Compound 2, Compound 4 -> Compound 15, Compound 10
+ Conditions: at sunrise, in a magical circle
+
+Reaction: Compound 15, Compound 2, Compound 14, Compound 4 -> Compound 7
+ Conditions: in hot temperature, near a water source
+
+Reaction: Compound 4, Compound 1 -> Compound 3
+ Conditions: at sunset, at sunrise, near a water source
+

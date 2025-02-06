@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "description": "in cold temperature"
+    },
+    {
+        "id": 1,
+        "description": "in hot temperature"
+    },
+    {
+        "id": 2,
+        "description": "during a full moon"
+    },
+    {
+        "id": 3,
+        "description": "during a new moon"
+    },
+    {
+        "id": 4,
+        "description": "at sunrise"
+    },
+    {
+        "id": 5,
+        "description": "at sunset"
+    },
+    {
+        "id": 6,
+        "description": "underground"
+    },
+    {
+        "id": 7,
+        "description": "near a water source"
+    },
+    {
+        "id": 8,
+        "description": "in a magical circle"
+    },
+    {
+        "id": 9,
+        "description": "while in the presence of a specific creature"
+    }
+]

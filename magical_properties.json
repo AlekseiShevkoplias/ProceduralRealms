@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "effects": ["improves vision"],
+        "conditions": ["when applied to the eyes", "washed off with water"],
+        "value": 4
+    },
+    {
+        "id": 1,
+        "effects": ["increases strength"],
+        "conditions": ["when consumed"],
+        "value": 6
+    },
+    {
+        "id": 2,
+        "effects": ["heals wounds"],
+        "conditions": ["when applied to the wound"],
+        "value": 8
+    },
+    {
+        "id": 3,
+        "effects": ["improves agility"],
+        "conditions": ["when inhaled"],
+        "value": 5
+    },
+    {
+        "id": 4,
+        "effects": ["enhances intelligence"],
+        "conditions": ["when consumed"],
+        "value": 7
+    },
+    {
+        "id": 5,
+        "effects": ["provides resistance to fire"],
+        "conditions": ["when applied to the skin"],
+        "value": 6
+    },
+    {
+        "id": 6,
+        "effects": ["grants invisibility"],
+        "conditions": ["when consumed"],
+        "value": 9
+    },
+    {
+        "id": 7,
+        "effects": ["restores stamina"],
+        "conditions": ["when consumed"],
+        "value": 5
+    },
+    {
+        "id": 8,
+        "effects": ["provides resistance to cold"],
+        "conditions": ["when applied to the skin"],
+        "value": 6
+    },
+    {
+        "id": 9,
+        "effects": ["increases speed"],
+        "conditions": ["when inhaled"],
+        "value": 5
+    }
+]
